@@ -1,0 +1,1 @@
+<img class="w-36" src="//v.fastcdn.co/u/ed1a9b17/61143180-0-result-66.svg" alt="CloudinaryLogo">
